@@ -2,6 +2,17 @@ body {
   text-align: center;
   background-color: #011F3F;
 }
+button{
+  
+  display: inline-block;
+  height: 100px;
+  width: 200px;
+  border: 10px;
+  border-radius: 20%;
+  font-size: 5rem;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color:darkgray;
+}
 
 #level-title {
   font-family: 'Press Start 2P', cursive;
